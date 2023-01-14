@@ -8,8 +8,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![Capture d’écran (210)](https://user-images.githubusercontent.com/121683423/212462948-4d411b2b-c96f-4427-9e50-3d6e79c4446f.png)
 ![Capture d’écran (211)](https://user-images.githubusercontent.com/121683423/212462953-a948a6c2-917f-40e7-9467-aabf4d3bbfbb.png)
 
-Solution URL : 
-Live Site URL : 
+Solution URL : https://www.frontendmentor.io/solutions/product-preview-card-component-iUQf05AYPC#comment-63c2e6e8d12faacf291b6ecd
+
+Live Site URL : https://handyyweb.github.io/Preview-card/
 
 <ins>My process</ins> :
 
