@@ -1,6 +1,11 @@
 *{
     margin:0px;
     padding:0px;
+    box-sizing: border-box;
+}
+
+*::after {
+  box-sizing: inherit;
 }
 
 body{
@@ -106,7 +111,7 @@ button:hover{
     font-weight: 700;
 }
 
-@media only screen and (min-width : 24rem) {
+@media only screen and (min-width : 600px) {
 
     main{
         max-width: 150%;
