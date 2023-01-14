@@ -47,6 +47,7 @@ Frontend Mentor : [@HandyyWeb] (https://www.frontendmentor.io/profile/HandyyWeb)
 <ins>Acknowledgements</ins>
 
 I would like to thank <ins>Grace Snow</ins>, in Slack, who helps me to understand where are the problems in my code and provides me some gateway to fix them, again thank you !
+I would also like to thank <ins> Rostyslav Nazarenko </ins> ( @rostyslav-nazarenko on Frontend mentor ), who gives me a way to fix the last bugs on my project !
   
 Thank you everyone and see you later !
   
