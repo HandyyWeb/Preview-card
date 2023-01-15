@@ -24,7 +24,7 @@ Built with :
 <ins>What I learned</ins> : 
 
 This second project was really tougher than my first project.
-I was going first for a multiple CSS grid with a lot of `<article>` element / `<section>` element  and so on, when just <div>  were necessary... ! Then I was so confused by the amount of CSS properties to use :) .
+I was going first for a multiple CSS grid with a lot of `<article>` element / `<section>` element  and so on, when just 2 `<div>` elements were necessary... ! Then I was so confused by the amount of CSS properties to use :) .
 However, I get some helps in Slack ( I will thank him later ) so the following was a bit easier.
 First time working on both mobile and desktop layout and using CSS rules, so I'm proud of me, even if there are still bugs to fix.
   
